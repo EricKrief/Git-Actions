@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/EricKrief/GitActions/issues"
   },
-  "homepage": "https://github.com/EricKrief/GitActions#readme"
+  "homepage": "https://github.com/EricKrief/GitActions#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
